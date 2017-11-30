@@ -15,7 +15,7 @@ The data set is taken from the respective kaggle.com challenge, and you can find
 The employed classifier achieved an accuracy of nearly 94% which is quite remarkable considering its
 simplicity. 
 
-# Final Remarks
+## Final Remarks
 
 I hope you enjoy the introduction to handwritten digit classification with random forests. If you
 have any questions, please let me know!
